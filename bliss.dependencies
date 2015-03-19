@@ -3,7 +3,8 @@
     "remote": "TeamBliss-Devices",
     "repository": "android_device_samsung_jf-common",
     "target_path": "device/samsung/jf-common"
-    
+  },
+  {
     "remote": "cm",
     "repository": "android_device_samsung_qcom-common",
     "target_path": "device/samsung/qcom-common",
